@@ -1,0 +1,17 @@
+Track 2:
+
+Within the university ecosystem, there exists a notable challenge in engaging students in meaningful projects and establishing robust connections between the current student body and alumni network. The current lack of a centralized platform hinders the seamless collaboration needed to create project teams and pursue real-world initiatives. To bridge this gap, there is a pressing need for the development of a comprehensive University Ecosystem Engagement Platform that facilitates efficient collaboration, project creation, and alumni involvement.
+
+Description:
+
+In the realm of higher education, universities face the challenge of effectively engaging students in practical projects while fostering connections between the current student body and alumni. The absence of a centralized platform inhibits the creation of project teams and the pursuit of real-world projects, limiting the potential for students to gain hands-on experience and for alumni to contribute meaningfully to their alma mater.
+
+To address this challenge, the University Ecosystem Engagement Platform is envisioned as a holistic solution that streamlines the process of project collaboration. The platform will provide students with a user-friendly interface to register, form project teams, and submit proposals. Simultaneously, it will empower alumni to evaluate and select projects to support, creating a dynamic and interactive university ecosystem.
+
+Features:
+
+->User Registration and Profile Management: Allow students and alumni to easily register on the platform and manage their profiles.Capture relevant information, including academic background, professional experience, and areas of expertise.
+->Project Creation and Proposal Submission: Enable students to create project proposals, outlining objectives, scope, and required skills. Facilitate the submission of proposals by student teams, providing a structured template for project details.
+->Team Formation and Collaboration: Implement a team formation feature, allowing students to join or create project teams. Enable seamless collaboration through discussion forums, file sharing, and project-specific communication channels.
+->Alumni Engagement and Project Evaluation: Provide alumni with a platform to review and select projects based on their interests and expertise. Implement a robust evaluation system that considers project viability, impact, and alignment with alumni skills.
+->AI/ML Integration for Skill Enhancement: Integrate AI/ML features to analyze the skills of participating students. Recommend skill development resources, workshops, or courses to upskill students based on project requirements.
